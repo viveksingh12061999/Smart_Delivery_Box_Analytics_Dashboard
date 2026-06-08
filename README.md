@@ -119,25 +119,6 @@ Machine Learning Model
 - Delay Analysis
 - Delivery Trends
 
----
-
-## Machine Learning
-
-Model:
-- RandomForestClassifier
-
-Target:
-- Delayed Delivery
-
-Features:
-- Distance
-- Hour
-- Temperature
-- Driver
-- City
-
----
-
 ## Folder Structure
 
 ```text
