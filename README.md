@@ -1,8 +1,8 @@
-# GrubPac Smart Delivery Analytics Dashboard
+# Smart Delivery Analytics Dashboard
 
 ## Project Overview
 
-This project simulates a real-world food delivery analytics system for GrubPac. It demonstrates an end-to-end data analytics pipeline using Python, MySQL, SQL, and Power BI.
+This project simulates a real-world food delivery analytics system for Smart Delivery Analytics Dashboard. It demonstrates an end-to-end data analytics pipeline using Python, MySQL, SQL, and Power BI.
 
 The system generates delivery data, stores it in a MySQL database, performs analytics, and visualizes key business metrics through interactive dashboards.
 
@@ -44,8 +44,6 @@ MySQL Database
 SQL Analytics
 ↓
 Power BI Dashboard
-↓
-Machine Learning Model
 
 ---
 
